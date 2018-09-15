@@ -5,8 +5,8 @@ That is, no run-time exception occurs, but the function simply
 does not do the right thing.
 
 Authors: David Mutchler, Dave Fisher, Valerie Galluzzi, Amanda Stouder,
-         their colleagues and PUT_YOUR_NAME_HERE.
-"""  # TODO: 1. PUT YOUR NAME IN THE ABOVE LINE.
+         their colleagues and YC.ZHU_DARREN
+"""  # DONE: 1. PUT YOUR NAME IN THE ABOVE LINE.
 
 
 ########################################################################
